@@ -1,1 +1,1 @@
-# Sqlprac
+# Sql and python practise
